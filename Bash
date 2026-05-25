@@ -1,0 +1,26 @@
+esg-data-review-system/
+│
+├── backend/
+│   ├── config/
+│   ├── organizations/
+│   ├── ingestion/
+│   ├── emissions/
+│   ├── reviews/
+│   ├── users/
+│   ├── manage.py
+│   ├── requirements.txt
+│   └── .env.example
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── vite.config.js
+│
+├── README.md
+├── MODEL.md
+├── DECISIONS.md
+├── TRADEOFFS.md
+├── SOURCES.md
+├── docker-compose.yml
+└── .gitignore
